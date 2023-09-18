@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Schuame alexandre</h1>
-<h3 align="center">A passionate fullstack developer from Cameroon</h3>
+<p align="center">
+  <img alt="coding" align="center" src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif" />
+</p>
+<h1 align="center">Hi 👋, I'm Schuame alexandre lionel</h1>
+<h3 align="center">A passionate full stack developer from Cameroon</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alessandrini11&label=Profile%20views&color=0e75b6&style=flat" alt="alessandrini11" /> </p>
 
